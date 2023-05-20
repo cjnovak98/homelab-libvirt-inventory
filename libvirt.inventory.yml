@@ -1,0 +1,7 @@
+---
+plugin: community.libvirt.libvirt
+uri: 'qemu+ssh://cnovak@hype01/system'
+plugin: community.libvirt.libvirt
+uri: 'qemu+ssh://cnovak@hype02/system'
+plugin: community.libvirt.libvirt
+uri: 'qemu+ssh://cnovak@hype03/system'
