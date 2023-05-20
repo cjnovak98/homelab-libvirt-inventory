@@ -1,0 +1,2 @@
+[inventory]
+inventory=inventory.libvirt1.yml:inventory.libvirt2.yml:inventory.libvirt3.yml
