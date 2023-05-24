@@ -1,6 +1,8 @@
 - name: Test pinging things
   hosts: all
   tasks:
+    - name: Ping hosts
+      ansible.builtin.ping:
     - name: Hello Message
       debug:
         msg: "Hello World!"
