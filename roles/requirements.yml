@@ -1,2 +1,3 @@
 ---
-src: community.libvirt.libvirt
+collections:
+- community.libvirt.libvirt
